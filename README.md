@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Noxtal
-#### Hacking enthusiast and writeup creator
+#### Young programmer, hacking enthusiast and writeup creator
 
 <div style="text-align:center"><img src="https://images.wallpapersden.com/image/download/showtime-retro_65161_1366x768.jpg" /></div>
 
