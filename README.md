@@ -19,6 +19,8 @@ Skills: Basic Computer Engineering / Programming  (12+ languages) / Web Hacking 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Noxtal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/noxtal_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://noxtal.com)  
 
+<img src="https://www.codewars.com/users/Noxtal/badges/large" alt="Codewars">
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/Noxtal.png" alt="TryHackMe">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxtal&show_icons=true)  
