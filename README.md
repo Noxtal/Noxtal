@@ -1,5 +1,6 @@
 # Noxtal [🔗](https://noxtal.com)
 ![Profile views](https://gpvc.arturio.dev/Noxtal) 
+[![Years Badge](https://badges.strrl.dev/years/Noxtal)](https://badges.strrl.dev)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noxtal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.noxtal@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/noxtal_)
