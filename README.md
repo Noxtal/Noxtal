@@ -7,7 +7,7 @@
 
 Another 17 yo, but from Quebec, Canada. I've been learning more and more languages since I was 11. I consider myself knowing 13 now. Still, I remain a huge Python and Rust enjoyer. Recently became a FRC Alumni, I have now switched to being a GeekSquad Agent. I'm always onto new challenges. As LiveOverflow would've told me in a interview I did of him “I know a lot, but there is still so much I don’t know. I must not become complacent”. Learning is power, and Asus, the best PC brand. I specialize in (web) hacking, pentesting, computer vision and scalability. Running on a Ryzen 9 4900H + RTX 2060 with Monokai on for <b>supremacy</b>. Don't talk to me if you use light theme.
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
