@@ -1,9 +1,9 @@
 # Noxtal [🔗](https://noxtal.com)
 ![Profile views](https://gpvc.arturio.dev/Noxtal) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noxtal_)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noxtal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.noxtal@gmail.com)
-
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/noxtal_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noxtal_)
 
 Another 17 yo, but from Quebec, Canada. I've been learning more and more languages since I was 11. I consider myself knowing 13 now. Still, I remain a huge Python and Rust enjoyer. Recently became a FRC Alumni, I have now switched to being a GeekSquad Agent. I'm always onto new challenges. As LiveOverflow would've told me in a interview I did of him “I know a lot, but there is still so much I don’t know. I must not become complacent”. Learning is power, and Asus, the best PC brand. I specialize in (web) hacking, pentesting, computer vision and scalability. Running on a Ryzen 9 4900H + RTX 2060 with Monokai on for <b>supremacy</b>. Don't talk to me if you use light theme.
 
