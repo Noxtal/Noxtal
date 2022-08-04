@@ -26,5 +26,5 @@ Another 17 yo, but from Quebec, Canada. I've been learning more and more languag
 <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=noxtal&show_icons=true&theme=monokai&hide_border=true" />
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxtal&layout=compact&theme=monokai&hide_border=true" />
 
-<img src="https://www.codewars.com/users/Noxtal/badges/large" alt="Codewars">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Noxtal.png" alt="TryHackMe">
+[![Codewars](https://www.codewars.com/users/Noxtal/badges/large)](https://www.codewars.com/users/Noxtal)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Noxtal.png)](https://tryhackme.com/p/Noxtal)
