@@ -1,28 +1,30 @@
-### Hi there 👋 I am Noxtal
-#### 17yo programmer, hacking enthusiast and writeup creator
-
-<div style="text-align:center"><img src="https://images.wallpapersden.com/image/download/showtime-retro_65161_1366x768.jpg" /></div>
-
-Programming since the age of 10, 17 now :) I'm from Quebec, in Canada, thus English is my second language. I love to do web hacking, coding, CTF challenge solving, and development as well as creating writeups for my website. I still don't and can't know everything, that's what I'm always telling myself to motivate me into learning more. I would say that my young age makes it harder for me, but I enjoy the impact I can do on the community.
-
-<hr/>
-
-Skills: Basic Computer Engineering / Programming  (12+ languages) / Web Hacking / Pentesting (CTFs) / Robotics (FRC #5528) /  Teaching / Leadership
-
-- 🔭 I’m currently working on developping new hacking and programming skills
-- 🌱 I’m currently learning Rust, Golang is next!
-- 👯 I’m looking to collaborate on cybersecurity-related content 
-- 🤔 I’m looking for help with starting bug bounty 
-- 📫 How to reach me: [Twitter](https://twitter.com/noxtal_) or Discord (Noxtal #3230) 
-- ⚡ Fun fact: I haven't hacked Nasa (yet)
+# Noxtal [🔗](https://noxtal.com)
+![Profile views](https://gpvc.arturio.dev/Noxtal) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noxtal_)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noxtal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.noxtal@gmail.com)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Noxtal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/noxtal_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://noxtal.com)  
+Another 17 yo, but from Quebec, Canada. I've been learning more and more languages since I was 11. I consider myself knowing 13 now. Still, I remain a huge Python and Rust enjoyer. Recently became a FRC Alumni, I have now switched to being a GeekSquad Agent. I'm always onto new challenges. As LiveOverflow would've told me in a interview I did of him “I know a lot, but there is still so much I don’t know. I must not become complacent”. Learning is power, and Asus, the best PC brand. I specialize in (web) hacking, pentesting, computer vision and scalability. Running on a Ryzen 9 4900H + RTX 2060 with Monokai on for <b>supremacy</b>. Don't talk to me if you use light theme.
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
+<img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=noxtal&show_icons=true&theme=monokai&hide_border=true" />
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxtal&layout=compact&theme=monokai&hide_border=true" />
 
 <img src="https://www.codewars.com/users/Noxtal/badges/large" alt="Codewars">
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/Noxtal.png" alt="TryHackMe">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noxtal&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Noxtal)  
