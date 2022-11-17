@@ -6,10 +6,11 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/noxtal_)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noxtal_)
 
-Another 17 yo, but from Quebec, Canada. I've been learning more and more languages since I was 11. I consider myself knowing 14 now. Still, I remain a huge Python and Rust enjoyer. Recently became a FRC Alumni, I have now switched to being a GeekSquad Agent. I'm always onto new challenges. As LiveOverflow told me in a interview of him I did: “I know a lot, but there is still so much I don’t know. I must not become complacent”. Learning is power, and Asus, the best PC brand. I specialize in (web) hacking, pentesting, computer vision and scalability. Running on a Ryzen 9 4900H + RTX 2060 with Monokai on for <b>supremacy</b>. Don't talk to me if you use light theme.
+Another 17 yo, but from Quebec, Canada. I've been learning more and more languages since I was 11. I consider myself knowing 15 now. Still, I remain a huge Python and Rust enjoyer. Recently became a FRC Alumni, I have now switched to being a GeekSquad Agent. I'm always onto new challenges. As LiveOverflow told me in a interview of him I did: “I know a lot, but there is still so much I don’t know. I must not become complacent”. Learning is power, and Asus, the best PC brand. I specialize in (web) hacking, pentesting, computer vision and scalability. Running on a Ryzen 9 4900H + RTX 2060 with Monokai on for <b>supremacy</b>. Don't talk to me if you use light theme.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
