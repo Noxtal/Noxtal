@@ -25,6 +25,8 @@ Another 17 yo, but from Quebec, Canada. I've been learning more and more languag
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
+Now a **certified** Intel MASTER + Benchmark, PC101, Sales, Gaming, 12th gen and Evo **expert**
+
 <img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=noxtal&show_icons=true&theme=monokai&hide_border=true" />
 <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxtal&layout=compact&theme=monokai&hide_border=true" />
 
